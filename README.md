@@ -99,15 +99,23 @@ EX: 2.4 Looping Patterns
 
 **STEP 1:** Start.
 
-**STEP 2:** Create a variable `a`.
+**STEP 2:** Create a variable `rows`.
 
-**STEP 3:** Get the value of `a` from the user.
+**STEP 3:** Get the value of `rows` from the user.
 
-**STEP 4:** Convert the value of `a` to binary using the `bin()` function.
+**STEP 4:** Define a function `altr_pattern(rows)` to print the pattern.
 
-**STEP 5:** Print the binary value.
+**STEP 5:** Inside the function:
+- Initialize a variable `num` to 1.
+- Use an outer loop from 1 to `rows`:
+  - Use an inner loop from 1 to the current outer loop index:
+    - Print `num` with a space.
+  - Increment `num` by 2 after each outer loop iteration.
+  - Print a new line after each row.
 
-**STEP 6:** Stop.
+**STEP 6:** Call the function `altr_pattern(rows)`.
+
+**STEP 7:** Stop.
 
 ### Program:
 ```
