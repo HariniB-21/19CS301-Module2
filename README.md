@@ -2,7 +2,7 @@
 ### Register No - 212222020008
 ### Name - Harini B
 
-# EX: 2.1 ITERATIVE STATEMENTS
+# ExNo: 2.1 ITERATIVE STATEMENTS
 ### Aim: To write Python Program to print numbers  range from M to N (including M and N values)
 ### Algorithm:
 
@@ -31,8 +31,8 @@ for i in range (a , b+1):
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 2.2 Functions
-### Aim: Write a python program to define a function named "result" that accepts 2 values and return its sum, subtraction and multiplication.
+# ExNo: 2.2 Functions
+### Aim: To write a python program to define a function named "result" that accepts 2 values and return its sum, subtraction and multiplication.
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -67,8 +67,8 @@ b = int(input())
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 2.3 Built-In Function and Lambda Function
-### Aim: Write a python program to convert the decimal number to binary number using built in functions.
+# ExNo: 2.3 Built-In Function and Lambda Function
+### Aim: To write a python program to convert the decimal number to binary number using built in functions.
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -94,8 +94,8 @@ print (bin(a))
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 2.4 Looping Patterns
-### Aim: Python program to print alternate number pattern .Get the number of rows as input
+# ExNo: 2.4 Looping Patterns
+### Aim: To write a Python program to print alternate number pattern .Get the number of rows as input
 ### Algorithm:
 
 **STEP 1:** Start.
